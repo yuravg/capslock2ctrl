@@ -1,3 +1,3 @@
-; Caps Lock acts as Shift
+; Caps Lock acts as Control
 CapsLock::Ctrl
 return
