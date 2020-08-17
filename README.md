@@ -1,18 +1,7 @@
 # capslock2ctrl
-Rebind CapsLock to Ctrl
 
-# What for
+Collection ways to rebind CapsLock to Ctrl
 
-There are many way to rebind CapsLock key to Ctlr key for Windows
-OS([example](https://beebom.com/how-remap-keyboard-windows-10/)), but for VNC connection this
-may not work.
-
-I use [Autohotkey](https://autohotkey.com) script
-```ahk
-; Caps Lock acts as Control
-CapsLock::Ctrl
-return
-```
-or just run
-[capslock2ctrl.exe](https://github.com/yuravg/capslock2ctrl/raw/develop/capslock2ctrl.exe)
-(Ahk2exe Autohotkey Script to EXE converter output file)
+- [Autohotkey](autohotkey/README.md)
+- [X11](X11/README.md)
+- [Regedit](regedit/README.md)
