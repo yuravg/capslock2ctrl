@@ -14,5 +14,5 @@ CapsLock::Ctrl
 return
 ```
 or just run
-[capslock2ctrl.exe](https://github.com/yuravg/capslock2ctrl/raw/develop/capslock2ctrl.exe)
+[capslock2ctrl.exe](https://github.com/yuravg/capslock2ctrl/raw/master/autohotkey/capslock2ctrl.exe)
 (Ahk2exe Autohotkey Script to EXE converter output file)
